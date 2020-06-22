@@ -129,6 +129,8 @@ dmypy.json
 .pyre/
 
 *.log
+*.tmp*
+*.old*
 .vscode/
 _trash/
 download_models/_ssd_data*/
