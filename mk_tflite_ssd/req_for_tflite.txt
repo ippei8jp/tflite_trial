@@ -20,7 +20,7 @@ netron==4.1.8
 numpy==1.18.4
 opencv-python==4.2.0.34
 opt-einsum==3.2.1
-Pillow==7.1.2
+Pillow==9.0.0
 protobuf==3.12.0
 pyparsing==3.0.0a1
 python-dateutil==2.8.1
